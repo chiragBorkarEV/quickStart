@@ -1,0 +1,14 @@
+.type-global-nav {
+  font: 14px DinProRegular, sans-serif;
+  text-transform: uppercase;
+}
+
+.type-nav-app-group {
+  font: 18px DinProRegular, sans-serif;
+  text-transform: uppercase;
+}
+
+.type-app-header {
+  font: 22px DinProRegular, sans-serif;
+  text-transform: uppercase;
+}

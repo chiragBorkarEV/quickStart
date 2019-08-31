@@ -1,0 +1,12 @@
+[
+  { "dim": "Consultant A", "value": 500000 },
+  { "dim": "Consultant B", "value": 320000 },
+  { "dim": "Consultant C", "value": 180000 },
+  { "dim": "Consultant D", "value": 89000 },
+  { "dim": "Consultant E", "value": 68000 },
+  { "dim": "Consultant F", "value": 10500 },
+  { "dim": "Consultant G", "value": 8000 },
+  { "dim": "Consultant H", "value": 5000 },
+  { "dim": "Consultant I", "value": 3400 },
+  { "dim": "Consultant J", "value": 2000 }
+]

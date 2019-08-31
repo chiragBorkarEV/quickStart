@@ -1,0 +1,14 @@
+[
+  { "x": "Oct-2017", "positive": 3, "negative": -2 },
+  { "x": "Nov-2017", "positive": 4, "negative": -1 },
+  { "x": "Dec-2017", "positive": 1, "negative": -5 },
+  { "x": "Jan-2018", "positive": 5, "negative": -2 },
+  { "x": "Feb-2018", "positive": 5, "negative": -3 },
+  { "x": "Mar-2018", "positive": 2, "negative": -1 },
+  { "x": "Apr-2018", "positive": 3, "negative": -5 },
+  { "x": "May-2018", "positive": 1, "negative": -2 },
+  { "x": "Jun-2018", "positive": 3, "negative": -1 },
+  { "x": "Jul-2018", "positive": 1, "negative": -3 },
+  { "x": "Aug-2018", "positive": 1, "negative": -1 },
+  { "x": "Sep-2018", "positive": 5, "negative": -1 }
+]

@@ -1,0 +1,12 @@
+[
+  { "dim": "Client A", "value": 5000000 },
+  { "dim": "Client B", "value": 3200000 },
+  { "dim": "Client C", "value": 1800000 },
+  { "dim": "Client D", "value": 890000 },
+  { "dim": "Client E", "value": 680000 },
+  { "dim": "Client F", "value": 105000 },
+  { "dim": "Client G", "value": 80000 },
+  { "dim": "Client H", "value": 50000 },
+  { "dim": "Client I", "value": 34000 },
+  { "dim": "Client J", "value": 20000 }
+]

@@ -1,0 +1,17 @@
+@import './fonts.css';
+@import './icons.css';
+
+.show-cell {
+  background: white;
+  border-left: 1px solid lightgrey !important;
+  border-right: 1px solid lightgrey !important;
+  border-bottom: 2px solid lightgrey !important;
+}
+
+.show-client-name {
+  font-weight: bold;
+}
+
+.show-client-properties {
+  font-style: italic;
+}

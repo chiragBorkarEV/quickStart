@@ -1,0 +1,12 @@
+[
+  { "dim": "Strategy A", "value": 50000000 },
+  { "dim": "Strategy B", "value": 32000000 },
+  { "dim": "Strategy C", "value": 18000000 },
+  { "dim": "Strategy D", "value": 8900000 },
+  { "dim": "Strategy E", "value": 6800000 },
+  { "dim": "Strategy F", "value": 1050000 },
+  { "dim": "Strategy G", "value": 800000 },
+  { "dim": "Strategy H", "value": 500000 },
+  { "dim": "Strategy I", "value": 340000 },
+  { "dim": "Strategy J", "value": 200000 }
+]

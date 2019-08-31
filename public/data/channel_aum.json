@@ -1,0 +1,12 @@
+[
+  { "dim": "Channel A", "value": 4000000 },
+  { "dim": "Channel B", "value": 6200000 },
+  { "dim": "Channel C", "value": 2800000 },
+  { "dim": "Channel D", "value": 90000 },
+  { "dim": "Channel E", "value": 80000 },
+  { "dim": "Channel F", "value": 115000 },
+  { "dim": "Channel G", "value": 50000 },
+  { "dim": "Channel H", "value": 90000 },
+  { "dim": "Channel I", "value": 54000 },
+  { "dim": "Channel J", "value": 100000 }
+]

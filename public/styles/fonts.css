@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'DinProRegular';
+  src: url('../fonts/DinProRegular.eot');
+  src: url('../fonts/DinProRegular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProRegular.woff') format('woff'),
+       url('../fonts/DinProRegular.ttf') format('truetype'),
+       url('../fonts/DinProRegular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'DinProLight';
+  src: url('../fonts/DinProLight.eot');
+  src: url('../fonts/DinProLight.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProLight.woff') format('woff'),
+       url('../fonts/DinProLight.ttf') format('truetype'),
+       url('../fonts/DinProLight.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'DinProMedium';
+  src: url('../fonts/DinProMedium.eot');
+  src: url('../fonts/DinProMedium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProMedium.woff') format('woff'),
+       url('../fonts/DinProMedium.ttf') format('truetype'),
+       url('../fonts/DinProMedium.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'DinProBold';
+  src: url('../fonts/DinProBold.eot');
+  src: url('../fonts/DinProBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProBold.woff') format('woff'),
+       url('../fonts/DinProBold.ttf') format('truetype'),
+       url('../fonts/DinProBold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'DinProItalic';
+  src: url('../fonts/DinProItalic.eot');
+  src: url('../fonts/DinProItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProItalic.woff') format('woff'),
+       url('../fonts/DinProItalic.ttf') format('truetype'),
+       url('../fonts/DinProItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'DinProBoldItalic';
+  src: url('../fonts/DinProBoldItalic.eot');
+  src: url('../fonts/DinProBoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/DinProBoldItalic.woff') format('woff'),
+       url('../fonts/DinProBoldItalic.ttf') format('truetype'),
+       url('../fonts/DinProBoldItalic.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}

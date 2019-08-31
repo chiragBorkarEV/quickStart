@@ -1,0 +1,18 @@
+.icon-dropdown-black {
+  display: inline-block;
+  background: url('../images/svg/dropdown-black.svg') center no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.icon-clear-button {
+  display: inline-block;
+  background: url('../images/svg/clear-button.svg') center no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.icon-select-arrow {
+  display: inline-block;
+  background: url('../images/svg/select-arrow.svg') center no-repeat;
+  width: 20px;
+  height: 20px;
+}

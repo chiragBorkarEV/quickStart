@@ -1,0 +1,16 @@
+:root {
+  /* white */
+  --color-white: white;
+
+  /* primary */
+  --color-primary-01: #CCDCDE;
+  --color-primary-02: #9ABABD;
+  --color-primary-03: #79A3A7;
+  --color-primary-04: #588D92;
+  --color-primary-05: #467074;
+  --color-primary-06: #345457;
+  --color-primary-07: #23383A;
+
+  /* Navbar Dropdown */
+  --color-navbar-dropdown: #C8D2BF;
+}

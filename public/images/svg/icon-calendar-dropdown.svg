@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Calendar date dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-6" transform="translate(-441.000000, -496.000000)">
+            <g id="Calendar-date-dropdown" transform="translate(441.000000, 496.000000)">
+                <rect id="Rectangle-21" fill="#000000" x="0" y="0" width="40" height="40"></rect>
+                <polygon id="Shape" fill="#DDDDDD" fill-rule="nonzero" points="20.4725 23.6599998 20.4725 23.6599998 20.4725 23.6599998 19.60625 22.7596136 19.60625 22.7596136 15 17.9432618 15.86625 17.0428755 20.4725 21.8592274 25.12 17 26 17.9003862 21.33875 22.7596136 21.33875 22.7596136"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
